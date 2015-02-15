@@ -18,8 +18,8 @@ RainMak3r@Could:~/Desktop# ruby WPiolt.rb  -h
 | |/\| ||  __/ | || | / _ \ | __|       
 \  /\  /| |    | || || (_) || |_          Basic Version - 0.1 by Andy Yang
  \/  \/ \_|    |_||_| \___/ \__|          contactayang[AT]gmail[DOT]com
-                                 
-WPiolt - Wordpress Bruteforce tool via XML-RPC by Andy Yang
+
+
 
 EXAMPLE USAGE:
 
