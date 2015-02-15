@@ -12,15 +12,6 @@ License : GPLv3
 ================================================================================================
 RainMak3r@Could:~/Desktop# ruby WPiolt.rb  -h
 
- _    _ ______  _  _          
-| |  | || ___ \(_)| |       | |  
-| |  | || |_/ / _ | |  ___  | |_      
-| |/\| ||  __/ | || | / _ \ | __|       
-\  /\  /| |    | || || (_) || |_          Basic Version - 0.1 by Andy Yang
- \/  \/ \_|    |_||_| \___/ \__|          contactayang[AT]gmail[DOT]com
-
-
-
 EXAMPLE USAGE:
 
      ./WPilot.rb  -t 'www.target.com' -d '/User/eve/dic.txt'
